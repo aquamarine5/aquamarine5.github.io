@@ -1,2 +1,2 @@
 # aquamarine5.github.io
-**  C  O  R  S  **
+- **C  O  R  S**
